@@ -1,10 +1,10 @@
 ### About Me
 - 👋 Hi, I’m Renan Bento.
-- 💼 Nowadays, I work as a CS Ops in a brazilian fintech.
+- 💼 Currently, I work as a CS Ops (Customer Success Operations) in a brazilian fintech.
 - 📍 I live in Belo Horizonte, Minas Gerais.
 - 💲 I've got a Bachelor of Science in Controllership & Finances.  
 - 👀 I’m interested in Ancient Literature, Arab Cuisine, Armenian Folk Music, Financial Markets and, of course, Data.  
-- 💻 I’m currently learning SQL and Python. Going further, I'm eager to study Tableu and R.
+- 💻 I’m currently learning SQL and Python. Going further, I'm eager to study Tableau and R.
 - ✍ I have two sources of motivation: the need to create value and stand out in my current job; the deep and sincere interest in Data Science.
 
 I'm still taking my first steps in this field, but with a positive attitude. 
