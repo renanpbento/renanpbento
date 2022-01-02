@@ -1,6 +1,6 @@
 ### About Me
 - 👋 Hi, I’m Renan Bento.
-- 💼 Currently, I work as a Quantitative Investment Analyst in a brazilian fintech called SmarttBot.
+- 💼 Currently, I work as a Customer Success Operations Analyst (CS Ops) in a brazilian fintech called SmarttBot.
 - 📍 I live in Belo Horizonte, Minas Gerais.
 - 💲 I've got a Bachelor of Science in Controllership & Finances.  
 - 👀 I’m interested in Ancient Literature, Arab Cuisine, Armenian Folk Music, Financial Markets and, of course, Data.  
